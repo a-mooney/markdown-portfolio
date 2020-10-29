@@ -1,1 +1,7 @@
-Replace this with a link to your a GitHub or social media profile.
+Here are some links to my accounts:
+
+[Github](https://github.com/a-mooney)
+
+[LinkedIn](https://www.linkedin.com/in/abimooney/)
+
+Thanks for checking them out!
